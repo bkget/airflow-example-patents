@@ -33,6 +33,9 @@ Run `doker-compose.yml` in the root folder and go to [http://localhost:8090/admi
 
 We are going to consume public patent API from [api.patentsview.org](https://api.patentsview.org/doc.html)
 
+## Report Available on
+https://juanbroldan.com/apache-airflow-a-real-world-example/
+
 ## Further help
 
 If you want to know more about apache airflow, contact [Juan Roldan](https://juanbroldan.com/contact/).
